@@ -3,7 +3,9 @@
 ## Overview
 
 **Project**: Movie Trailer Website using Python
+
 **Nanodegree**: Full Stack Developer
+
 **Purpose**: The site displays a list of movies with applicable information. When a movie is selected its trailer will play.
 
 The website consists of three python (py) files:
